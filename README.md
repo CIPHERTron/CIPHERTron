@@ -17,5 +17,5 @@
 
 ## ⚡ Domains:
 - Full Stack Development
-- DecOps
+- DevOps
 - Technical Content Writing
