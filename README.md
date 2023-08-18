@@ -5,6 +5,8 @@
   
 <div align="center">
 
+<p>I believe in GitHub streaks over Snapchat streaks :)</p>
+
 <p><strong>Follow me around the web:</strong></p><br>
 
 <a href="https://www.linkedin.com/in/pritishsamal/" target="_blank"><img src="https://img.shields.io/badge/-pritishsamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritishsamal/" alt="LinkedIn"></a>
@@ -16,4 +18,4 @@
 
   <p>Thanks for visiting my profile. If you liked any of my projects, do give it a 🌟</p>
 </div>
-<blockquote>#web #JS #TS #Go #Python #react #Next.js #Gatsby #Node #express #mongo #flask #sql #firebase #DevOps #Docker #K8s #git #GitHub #opensourceOP #CloudIsFun</blockquote>
+<blockquote>#web #JS #TS #Go #Python #react #Next.js #Gatsby #Node #express #mongo #flask #sql #firebase #DevOps #K8s #Docker #Prometheus #Grafana #Kyverno #AWS  #git #GitHub #opensource #CloudIsFun</blockquote>
